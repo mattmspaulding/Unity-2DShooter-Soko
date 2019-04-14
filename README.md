@@ -22,3 +22,7 @@ alt="SokoGame" width="240" height="180" border="10" /></a>
 * A* Pathfinding Project (https://arongranberg.com/astar/)
 * Simple Vector Icons
 * Virtual Joystick Pack
+
+## Thanks to...
+* Brackeys - spawner system (https://www.youtube.com/user/Brackeys)
+* Lena Florian - combat damage text (https://www.youtube.com/channel/UCyCUUkurQ2RieUI8lmg-ScQ)
