@@ -9,7 +9,7 @@ alt="SokoGame" width="240" height="180" border="10" /></a>
 ## Notes on the Project
 * I made this game and recorded the process to present for a design class
 * The total development time was only 5 days, so there are ideas in the project that were left unfinished.
-* The scope of the game was set small so I could actually finish it for the class. This project was a major learning experience and will help when I work on a new game, which hopefully will have better art and more ambitious features.
+* The scope of the game was set small so I could actually finish it for the class. This project was a major learning experience both inside and outside of game-development and will help when I work on a new game, which hopefully will have better art and more ambitious features.
 
 ## Additional Assets 
 * A* Pathfinding Project (https://arongranberg.com/astar/)
