@@ -11,13 +11,6 @@ alt="SokoGame" width="240" height="180" border="10" /></a>
 * The total development time was only 5 days, so there are ideas in the project that were left unfinished.
 * The scope of the game was set small so I could actually finish it for the class. This project was a major learning experience and will help when I work on a new game, which hopefully will have better art and more ambitious features.
 
-## Features I Would have Added Given More Time
-* Visual feedback for picking up potions
-* An enemy that doesn't chase the player, but keeps its distance and shoots spells
-* More potion effects
-* More particle effects
-* And... if I was a better artist... better art.
-
 ## Additional Assets 
 * A* Pathfinding Project (https://arongranberg.com/astar/)
 * Simple Vector Icons
